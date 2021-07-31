@@ -11,6 +11,7 @@
     - Redux-Saga
     - Redux-persist/Redux-thunk/Redux-reselect
     - Stripe
+    - RxJS
 - Firebase/Firestore
 - GraphQL
 - Apollo
