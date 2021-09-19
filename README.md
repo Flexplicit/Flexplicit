@@ -11,11 +11,15 @@
     - Redux-Saga
     - Redux-persist/Redux-thunk/Redux-reselect
     - Stripe
+- Java
+    - Spring
+    - Hibernate
 - Firebase/Firestore
 - Apollo
 - MS SQL
 - Azure
 - Docker
 - JWT
+
 
 
