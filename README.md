@@ -14,6 +14,7 @@
 - Java
     - Spring
     - Hibernate
+    - JDBC
 - Firebase/Firestore
 - Apollo
 - MS SQL
