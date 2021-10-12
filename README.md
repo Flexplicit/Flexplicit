@@ -15,6 +15,7 @@
     - Spring
     - Hibernate
     - JDBC
+    - Maven/Gradle
 - Firebase/Firestore
 - Apollo
 - MS SQL
