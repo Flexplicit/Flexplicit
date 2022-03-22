@@ -22,7 +22,7 @@
 - Azure
 - Docker
 - JWT
-- Azure, OIDC
+- Azure, OIDC, Graph Explorer
 
 
 
