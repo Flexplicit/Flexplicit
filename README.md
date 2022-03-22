@@ -22,6 +22,7 @@
 - Azure
 - Docker
 - JWT
+- Azure, OIDC
 
 
 
