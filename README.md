@@ -16,10 +16,7 @@
     - Hibernate
     - JDBC
     - Maven/Gradle
-- Firebase/Firestore
-- Apollo
-- MS SQL
-- Azure
+- MSSQL
 - Docker
 - JWT
 - Azure, OIDC, Graph Explorer
