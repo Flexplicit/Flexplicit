@@ -19,7 +19,7 @@
 - MSSQL
 - Docker
 - JWT
-- Azure, OIDC, Graph Explorer, Restful Api, GraphQL, Directus
+- Azure, AWS, OIDC, Graph Explorer, Restful Api, GraphQL, Directus
 
 
 
