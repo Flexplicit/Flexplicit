@@ -16,7 +16,7 @@
     - Hibernate
     - JDBC
     - Maven/Gradle
-- MSSQL
+- MSSQL, SSIS
 - Docker
 - JWT
 - Azure, AWS, OIDC, Graph Explorer, Restful Api, GraphQL, Directus
