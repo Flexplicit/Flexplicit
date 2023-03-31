@@ -1,25 +1,24 @@
 ## Technologies and Tools: 
 
 - .NET
-    - ASP.NET
-    - Rest APIs/MVC
+    - ASP.NET 
     - EF CORE, ORM
     - Identity
     - Unit/Integration Testing
+    - Hangfire
+    - Blazor
 - React
     - Redux
     - Redux-Saga
     - Redux-persist/Redux-thunk/Redux-reselect
     - Stripe
+- Vue
 - Java
     - Spring
     - Hibernate
     - JDBC
     - Maven/Gradle
-- PostgreSQL, MSSQL, SSIS
+- MSSQL, PostgreSQL, SSIS
 - Docker
-- JWT
-- Azure, AWS, OIDC, Graph Explorer, Restful Api, GraphQL, Directus
-
-
-
+- REST, SOAP, GraphQL
+- Azure, AWS, OIDC, Graph Explorer, Directus, DevOps
