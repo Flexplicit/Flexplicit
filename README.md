@@ -1,23 +1,15 @@
-## Technologies and Tools: 
+## Technologies and Tools : 
 
 - .NET
     - ASP.NET 
     - EF CORE, ORM
     - Identity
-    - Unit/Integration Testing
+    - xUnit
     - Hangfire
     - Blazor
-- React
-    - Redux
-    - Redux-Saga
-    - Redux-persist/Redux-thunk/Redux-reselect
-    - Stripe
-- Vue
+    - FluentValidation
+- React, Vue
 - Java
-    - Spring
-    - Hibernate
-    - JDBC
-    - Maven/Gradle
 - MSSQL, PostgreSQL, SSIS
 - Docker
 - REST, SOAP, GraphQL
