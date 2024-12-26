@@ -11,8 +11,8 @@
     - IIS
 - React, Vue
 - Java
-  -Micronaut, Spring boot
-  
+    - Micronaut, Spring boot
+
 - MSSQL, PostgreSQL, SSIS
 - Docker
 - REST, SOAP, GraphQL
