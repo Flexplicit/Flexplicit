@@ -9,12 +9,11 @@
     - Blazor
     - FluentValidation
     - IIS
-- React, Vue
 - Java
     - Micronaut, Spring boot
-
+- React, Angular
 - MSSQL, PostgreSQL, SSIS
-- Docker
+- Docker, K8S
 - REST, SOAP, GraphQL
 - Azure, AWS, OIDC, Graph Explorer, Directus, DevOps
 - Linux
