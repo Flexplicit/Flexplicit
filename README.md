@@ -17,3 +17,4 @@
 - Docker
 - REST, SOAP, GraphQL
 - Azure, AWS, OIDC, Graph Explorer, Directus, DevOps
+- Linux
