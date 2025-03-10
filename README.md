@@ -20,6 +20,6 @@
 
 
 - Concepts/Specifications
-- HL7 FHIR
-- SNOMED CT
-- XRoad
+  - HL7 FHIR
+  - SNOMED CT
+  - XRoad
